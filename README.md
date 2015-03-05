@@ -1,4 +1,5 @@
 Dashboard for use with Check_MK built using Dashing
+
 Simple dashboard which is used in conjunction with a Check_MK instance
 
 Check out http://shopify.github.com/dashing for more information.
