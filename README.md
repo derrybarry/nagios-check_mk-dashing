@@ -1,3 +1,6 @@
+Dashboard for use with Check_MK built using Dashing
+Simple dashboard which is used in conjunction with a Check_MK instance
+
 Check out http://shopify.github.com/dashing for more information.
 
 ![](https://github.com/derrybarry/nagios-check_mk-dashing/blob/master/dashboard%20scrn.jpg)
