@@ -28,12 +28,19 @@ apt-get install nodejs
 ########################################################################
 
 apt-get install curl
+apt-get install liblzma-dev zlib1g-dev
+apt-get install liblzma-dev zlib1g-dev
+apt-get install NodeJS
+gem install zlib
+gem install nokogiri
+gem install execjs
 gem install bundler
 gem install execjs
 gem install curb
 gem install httparty -v '0.12.0'
 gem install tzinfo-data
 gem install dashing
+
 #################################################################################
 When adding a hosts' service to a job, refer to the link you would use from the main check_mk dashboard when viewing the pnp4nagios data.  You will need a valid username and password for check_mk (it does not have to be at admin level,as it is only viewing the page)
 ##################################################################################
